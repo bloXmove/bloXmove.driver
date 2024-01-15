@@ -1,0 +1,142 @@
+{
+  "project_info": {
+    "project_number": "764979507476",
+    "project_id": "bloxmoveng-fc8e2",
+    "storage_bucket": "bloxmoveng-fc8e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764979507476:android:e3170d5a167b54440cd201",
+        "android_client_info": {
+          "package_name": "com.bloxmove.ng.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764979507476-lk27sp6gcl99a1t8tpar6h8kecopnmup.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bloxmove.ng.driver",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "764979507476-hho7tm8kove01s46rlp996knpk7gv9hs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpJln0dguW3wI6kivBuO5oCBMru5oyIuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764979507476-hho7tm8kove01s46rlp996knpk7gv9hs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "764979507476-e1npspj5ahrlg336jld9k9807oivt4bd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bloxmove.ng-driver-app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764979507476:android:c3aed73aa181b5a10cd201",
+        "android_client_info": {
+          "package_name": "com.bloxmovedriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764979507476-5pi0eenn7m1v6utol0b0moll4enkig0c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bloxmovedriver",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "764979507476-hho7tm8kove01s46rlp996knpk7gv9hs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpJln0dguW3wI6kivBuO5oCBMru5oyIuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764979507476-hho7tm8kove01s46rlp996knpk7gv9hs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "764979507476-e1npspj5ahrlg336jld9k9807oivt4bd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bloxmove.ng-driver-app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764979507476:android:7e273e4b165a60280cd201",
+        "android_client_info": {
+          "package_name": "com.bloxmoveuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764979507476-d1v2s0g47v7ufqhklfmjrhdori2hb92h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bloxmoveuser",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "764979507476-hho7tm8kove01s46rlp996knpk7gv9hs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpJln0dguW3wI6kivBuO5oCBMru5oyIuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764979507476-hho7tm8kove01s46rlp996knpk7gv9hs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "764979507476-e1npspj5ahrlg336jld9k9807oivt4bd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bloxmove.ng-driver-app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
